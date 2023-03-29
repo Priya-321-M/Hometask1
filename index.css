@@ -1,0 +1,70 @@
+body{
+    font-family: 'Roboto',sans-serif;
+}
+#head{
+    background-color: darkblue;
+    height: 90px;
+}
+#mainheading{
+    background-color: white;
+    border-color: orangered;
+    border-style:ridge;
+    height: 55px;
+    width: 25%;
+    position:relative;
+    top: 15%;
+    bottom:9%;
+    left: 40%;
+    right: 35%;
+    text-align: center;
+    
+
+}
+#subheading{
+    font-size: x-small;
+    
+}
+#main{
+    background-color: white;
+    height: 100px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+    
+}
+#category{
+    background-color: white;
+    padding-right: 5%;
+    position: absolute;
+    top: 25%;
+    left: 1%;
+}
+.subscribe{
+    position: absolute;
+    right: 10%;
+    top: 19%;
+    
+
+}
+#email{ 
+    position: absolute;
+    right: 10%;
+    top: 25%;
+}
+#subcribebutton{
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 5.5%;
+    top: 25%;
+}
+.headline{
+    color:black;
+}
+.continuebutton{
+    color: white;
+    background-color: red;
+    height: 30px;
+    border-style: none;
+
+}
